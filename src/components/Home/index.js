@@ -181,7 +181,7 @@ class Home extends Component {
                                         <strong className="strong">Email:</strong> {user.email}
                                     </p>
                                     <p className="user-data">
-                                        <strong className="strong">Department:</strong>{" "}
+                                        <strong className="strong">Department: </strong>
                                         {user.company?.bs || "N/A"}
                                     </p>
                                     <div className="card-actions">
