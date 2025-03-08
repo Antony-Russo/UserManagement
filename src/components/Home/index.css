@@ -96,7 +96,7 @@
   padding: 10px;
   margin: 5px;
   margin-bottom: 10px;
-  border-radius: 8px;
+  border-radius: 18px;
   min-width: 350px;
   background-color: rgb(255, 255, 255);
   border-left: 5px solid rgb(208, 146, 58);
@@ -104,7 +104,7 @@
 
 .user-card:hover {
   box-shadow: 4px 4px 10px rgb(105, 105, 105);
-  border-left: 7px solid rgb(239, 31, 90);
+  border-left: 6px solid rgb(239, 31, 90);
 }
 
 .user-data {
